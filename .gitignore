@@ -1,0 +1,11 @@
+# Ignorar todos los archivos dentro de la carpeta data
+data/*
+
+# No ignorar la carpeta data en sí misma
+!data/
+
+# Ignorar todos los archivos dentro de la carpeta music
+music/*
+
+# No ignorar la carpeta music en sí misma
+!music/
